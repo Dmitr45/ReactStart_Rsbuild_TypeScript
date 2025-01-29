@@ -13,4 +13,11 @@ else apgrade
 
 Create React project
 npm create rsbuild@latest
+npm i react-router-dom
+npm add @rsbuild/plugin-sass -D
+npm i scss-reset
+
+
+Добавляем типы: 
+
 
